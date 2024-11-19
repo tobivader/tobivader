@@ -1,7 +1,7 @@
 # 👋 Hi, I'm OLuwatobi Akinnola!
 ### 🚀 Software Developer | Cloud Enthusiast | Open-Source Contributor
 - 🌟 Passionate about building impactful software solutions.
-- 💻 Proficient in [your key technologies like JavaScript, Python, React, etc.].
+- 💻 Proficient in  JavaScript, Python, React, C#.
 - 🌐 Exploring [Cloud Computing | Machine Learning | Web Development].
 - 📝 Writing about tech on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oluwatobi-akinnola)
 
