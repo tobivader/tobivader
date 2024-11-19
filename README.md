@@ -15,7 +15,7 @@
 ### 🏆 Featured Projects
 - [🌌 Solar System Visualization](https://github.com/tobivader/solarsystemjs-)  
   Interactive 3D solar system built with three.js, featuring dynamic shaders and real-time animations.
-  #### **1. ChatApp**  
+#### **1. ChatApp**  
 A real-time chat application with a focus on user-friendly interfaces and seamless communication.  
 [🔗 GitHub Repository](https://github.com/tobivader/Chatapp)
 
