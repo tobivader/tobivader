@@ -37,7 +37,9 @@ Given the high volatility in stock markets around the 2024 USA presidential elec
 
 
 ### 🔥 Streak Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobivader&theme=radical)
+
 
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobivader&layout=compact&theme=radical)
