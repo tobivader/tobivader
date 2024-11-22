@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OLuwatobi Akinnola!
+# 👋 Hi, I'm Tobi Akinnola!
 ### 🚀 Software Developer | Cloud Enthusiast | Open-Source Contributor
 - 🌟 Passionate about building impactful software solutions.
 - 💻 Proficient in  JavaScript, Python, React, C#.
