@@ -1,45 +1,117 @@
-# Tobi Akinnola
+# 👋 Hi, I'm Tobi Akinnola
 
-Software developer building practical applications across backend services, AI integrations, web experiences, and data-driven workflows.
+### Software Support Engineer | Troubleshooting · APIs · Python · Backend Systems
 
-[LinkedIn](https://linkedin.com/in/oluwatobi-akinnola) · [GitHub repositories](https://github.com/tobivader?tab=repositories)
+I'm a **Software Support Engineer who enjoys using code to troubleshoot, investigate, and triage technical issues**.
 
-## Recent projects
+I like understanding how systems behave behind the scenes — tracing API requests, reproducing problems, working through application logic, and building tools that make support and engineering workflows easier.
 
-### Voice Support Triage
+My projects focus on **support tooling, backend APIs, automation, microservices, and practical web applications**.
 
-A deployed customer-support prototype connecting an ElevenLabs voice agent to a FastAPI backend. It looks up synthetic account data and creates structured engineering escalations for confirmed technical issues.
+[LinkedIn](https://linkedin.com/in/oluwatobi-akinnola) · [GitHub Repositories](https://github.com/tobivader?tab=repositories)
 
-[Live demo](https://voice-support-triage-elevenlabs.onrender.com/) · [Source and documentation](https://github.com/tobivader/voice-support-triage-elevenlabs)
+---
 
-**Python · FastAPI · Pydantic · ElevenLabs · Render**
+## 🔧 Featured Projects
 
-### Receipt Scanner Expense Tracker
+### 🎙️ Voice Support Triage
 
-An expense-tracking project centered on scanning and organizing receipts.
+A customer-support prototype that connects an **ElevenLabs voice agent with a FastAPI backend**.
 
-[Source](https://github.com/tobivader/receipt-scanner-expense-tracker)
+The system retrieves customer account information, identifies potential technical issues, and creates structured engineering escalations containing the issue, investigation findings, and troubleshooting already performed.
 
-### MediaFlow Microservices Platform
+This project explores how support teams can combine **APIs, automation, and AI-assisted workflows** to improve technical triage.
 
-A media platform project organized around a microservices architecture.
+**Python · FastAPI · Pydantic · ElevenLabs · pytest · Render**
 
-[Source](https://github.com/tobivader/mediaflow-microservices-platform)
+[Live Demo](https://voice-support-triage-elevenlabs.onrender.com/) · [Repository](https://github.com/tobivader/voice-support-triage-elevenlabs)
 
-## Other selected projects
+---
 
-### Solar System Visualization
+### 🧾 Receipt Scanner & Expense Tracker
 
-An interactive 3D solar system experience built with Three.js, with animated planetary visuals.
+A full-stack application that turns uploaded receipts into organized expense records.
 
-[Source](https://github.com/tobivader/solarsystemjs-)
+The project includes a **React dashboard and FastAPI REST API** for managing expenses, filtering transactions, validating uploads, and categorizing receipt data. It also includes an OCR simulation layer that can later be replaced with a production OCR service.
 
-- [ChatApp](https://github.com/tobivader/Chatapp) — real-time messaging application.
-- [Airport Route Simulator](https://github.com/tobivader/Airport-route-sim-) — airport route simulation and planning.
-- [Billy's Restaurant](https://github.com/tobivader/Billys-Restaurant) — responsive restaurant website.
+Built to explore **API design, client-server troubleshooting, data processing, testing, Docker, and deployment workflows**.
 
-## Technologies
+**React · FastAPI · Python · REST APIs · SQLite/MySQL · Docker · GitHub Actions**
 
-Python, FastAPI, JavaScript, React, C#, and Three.js. Current project work includes API design, service integrations, testing, and deployment.
+[Repository](https://github.com/tobivader/receipt-scanner-expense-tracker)
 
+---
 
+### 🎬 MediaFlow Microservices Platform
+
+An asynchronous media-conversion platform built to explore how services communicate in a distributed application.
+
+Users authenticate, upload media, and create conversion jobs through a FastAPI service. Jobs are sent through **RabbitMQ to a separate Python worker**, which processes the media using FFmpeg while job information is stored in a database.
+
+The project helped me work with **service communication, queues, authentication, containers, health checks, APIs, and troubleshooting multi-service systems**.
+
+**Python · FastAPI · REST · JWT · RabbitMQ · MySQL · FFmpeg · Docker · Kubernetes**
+
+[Repository](https://github.com/tobivader/mediaflow-microservices-platform)
+
+---
+
+## 💻 Other Projects
+
+### 🌌 Solar System Visualization
+
+An interactive 3D solar system built with **Three.js and JavaScript**.
+
+Users can explore planets, view planetary information sourced through NASA APIs, and interact with animated orbits, lighting, textures, and custom shaders.
+
+**JavaScript · Three.js · NASA APIs · HTML/CSS · GLSL**
+
+[Repository](https://github.com/tobivader/solarsystemjs-)
+
+### 💬 ChatApp
+
+A real-time messaging application built to explore application communication and interactive user experiences.
+
+[Repository](https://github.com/tobivader/Chatapp)
+
+### ✈️ Airport Route Simulator
+
+A route simulation project for working with airport connections, routing logic, and scheduling concepts.
+
+[Repository](https://github.com/tobivader/Airport-route-sim-)
+
+### 🍽️ Billy's Restaurant
+
+A responsive restaurant website focused on front-end design, navigation, menus, and customer-facing content.
+
+[Repository](https://github.com/tobivader/Billys-Restaurant)
+
+---
+
+## 🛠️ Technologies
+
+**Languages:** Python · JavaScript · C#
+
+**Backend & APIs:** FastAPI · REST APIs · Pydantic · JWT
+
+**Data & Messaging:** SQL · MySQL · SQLite · RabbitMQ
+
+**Infrastructure & Tools:** Docker · Kubernetes · Git · GitHub Actions · Render
+
+**Frontend:** React · Three.js · HTML · CSS
+
+---
+
+## 🔍 What I'm Interested In
+
+I'm particularly interested in work involving:
+
+- Technical troubleshooting and incident investigation
+- API and backend support
+- Application and production support
+- Python scripting and automation
+- Logs, errors, system behaviour, and root-cause analysis
+- Cloud and distributed systems
+- Building internal support and diagnostic tools
+
+My goal is to keep improving at the intersection of **software, systems, and technical support** — understanding not just how applications are built, but how to investigate them when something goes wrong.
