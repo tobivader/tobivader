@@ -32,9 +32,9 @@ This project explores how support teams can combine **APIs, automation, and AI-a
 
 A full-stack application that turns uploaded receipts into organized expense records.
 
-The project includes a **React dashboard and FastAPI REST API** for managing expenses, filtering transactions, validating uploads, and categorizing receipt data. It also includes an OCR simulation layer that can later be replaced with a production OCR service.
+The project includes a **React dashboard and FastAPI REST API** for managing expenses, filtering transactions, validating uploads, and categorizing receipt data.
 
-Built to explore **API design, client-server troubleshooting, data processing, testing, Docker, and deployment workflows**.
+Built to explore **API design, client-server troubleshooting, data processing, testing, and deployment workflows**.
 
 **React · FastAPI · Python · REST APIs · SQLite/MySQL · Docker · GitHub Actions**
 
@@ -56,38 +56,6 @@ The project helped me work with **service communication, queues, authentication,
 
 ---
 
-## 💻 Other Projects
-
-### 🌌 Solar System Visualization
-
-An interactive 3D solar system built with **Three.js and JavaScript**.
-
-Users can explore planets, view planetary information sourced through NASA APIs, and interact with animated orbits, lighting, textures, and custom shaders.
-
-**JavaScript · Three.js · NASA APIs · HTML/CSS · GLSL**
-
-[Repository](https://github.com/tobivader/solarsystemjs-)
-
-### 💬 ChatApp
-
-A real-time messaging application built to explore application communication and interactive user experiences.
-
-[Repository](https://github.com/tobivader/Chatapp)
-
-### ✈️ Airport Route Simulator
-
-A route simulation project for working with airport connections, routing logic, and scheduling concepts.
-
-[Repository](https://github.com/tobivader/Airport-route-sim-)
-
-### 🍽️ Billy's Restaurant
-
-A responsive restaurant website focused on front-end design, navigation, menus, and customer-facing content.
-
-[Repository](https://github.com/tobivader/Billys-Restaurant)
-
----
-
 ## 🛠️ Technologies
 
 **Languages:** Python · JavaScript · C#
@@ -98,20 +66,30 @@ A responsive restaurant website focused on front-end design, navigation, menus, 
 
 **Infrastructure & Tools:** Docker · Kubernetes · Git · GitHub Actions · Render
 
-**Frontend:** React · Three.js · HTML · CSS
+**Frontend:** React · HTML · CSS
 
 ---
 
 ## 🔍 What I'm Interested In
 
-I'm particularly interested in work involving:
+I'm particularly interested in:
 
 - Technical troubleshooting and incident investigation
 - API and backend support
 - Application and production support
 - Python scripting and automation
-- Logs, errors, system behaviour, and root-cause analysis
+- Logs, errors, and root-cause analysis
 - Cloud and distributed systems
 - Building internal support and diagnostic tools
 
 My goal is to keep improving at the intersection of **software, systems, and technical support** — understanding not just how applications are built, but how to investigate them when something goes wrong.
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tobivader&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tobivader&layout=compact&theme=radical)
